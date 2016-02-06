@@ -6,8 +6,10 @@ This is a repository of useful resources for Core Interaction.
 + [TextWrangler](http://www.barebones.com/products/textwrangler/)
 + [Atom](https://atom.io)
 + [Sublime Text](https://www.sublimetext.com)
+
 #### FTP
 + [CyberDuck](http://cyberduck.io)
+
 #### Misc
 + [Codepen](http://www.codepen.io)
 
