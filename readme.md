@@ -17,5 +17,5 @@ This is a repository of useful resources for Core Interaction.
 ## Resources
 
 + [StackOverflow](http://stackoverflow.com)
-+ [W3Schools HTML reference](http://www.w3schools.com/tags/)
-+ [Sitepoint Structural elements](http://www.sitepoint.com/web-foundations/structural-elements/)
++ [W3Schools HTML reference](http://www.w3schools.com/tags/ref_byfunc.asp)
++ [Mozilla HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
