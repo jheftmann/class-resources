@@ -13,6 +13,7 @@ This is a repository of useful resources for Core Interaction.
 
 #### Misc
 + [Codepen](http://www.codepen.io)
++ [MAMP](https://www.mamp.info/en/)
 
 ## Resources
 
