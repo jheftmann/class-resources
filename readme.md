@@ -21,3 +21,4 @@ This is a repository of useful resources for Core Interaction.
 + [W3Schools HTML reference](http://www.w3schools.com/tags/ref_byfunc.asp)
 + [Mozilla HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 + [w3schools PHP reference](http://www.w3schools.com/php/default.asp)
++ [Responsive meta tag](https://css-tricks.com/snippets/html/responsive-meta-tag/)
