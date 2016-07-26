@@ -12,6 +12,9 @@ This is a repository of useful resources for Core Interaction.
 + [CyberDuck](http://cyberduck.io)
 + [Fetch](http://fetchsoftworks.com)
 
+#### Libraries
++ jQuery [CDN](https://code.jquery.com) or [dowload and self-host](http://jquery.com/download/)
+
 #### Misc
 + [Codepen](http://www.codepen.io)
 + [MAMP](https://www.mamp.info/en/)
