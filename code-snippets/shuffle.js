@@ -16,3 +16,7 @@ function shuffle(array) {
 
   return array;
 }
+
+// run function
+// change ourArray to the variable name of YOUR ARRAY
+shuffle(ourArray);
