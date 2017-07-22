@@ -14,10 +14,15 @@ This is a repository of useful intro coding resources.
 
 #### Libraries
 + jQuery [CDN](https://code.jquery.com) or [dowload and self-host](http://jquery.com/download/)
++ [jQuery UI](https://jqueryui.com)
+
+#### Plugins
++ [Unheap](http://www.unheap.com)
 
 #### Misc
 + [Codepen](http://www.codepen.io)
 + [MAMP](https://www.mamp.info/en/)
++ [Small Victories](http://www.smallvictori.es)
 
 ## Resources
 
