@@ -1,5 +1,5 @@
-# Core Interaction: Lab
-This is a repository of useful coding resources.
+# Resources
+This is a repository of useful intro coding resources.
 
 ## Tools
 #### Code editors
