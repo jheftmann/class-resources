@@ -1,7 +1,6 @@
 # Resources
 This is a repository of useful intro coding resources.
 
-## Tools
 #### Code editors
 + [TextWrangler](http://www.barebones.com/products/textwrangler/)
 + [Atom](https://atom.io)
@@ -19,16 +18,18 @@ This is a repository of useful intro coding resources.
 #### Plugins
 + [Unheap](http://www.unheap.com)
 
-#### Misc
+#### Misc tools
 + [Codepen](http://www.codepen.io)
 + [MAMP](https://www.mamp.info/en/)
 + [Small Victories](http://www.smallvictori.es)
 
-## Resources
-
+## Reference
 + [StackOverflow](http://stackoverflow.com)
 + [W3Schools HTML reference](http://www.w3schools.com/tags/ref_byfunc.asp)
 + [Mozilla HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-+ [w3schools PHP reference](http://www.w3schools.com/php/default.asp)
 + [Responsive meta tag](https://css-tricks.com/snippets/html/responsive-meta-tag/)
 + [Type alternates](http://clagnut.com/sandbox/css3/)
++ [W3Schools CSS Reference](w3schools.com/ css reference)
++ [Introduction to CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
++ [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
++ [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
