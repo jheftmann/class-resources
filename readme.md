@@ -39,3 +39,6 @@ This is a repository of useful intro coding resources.
 + [Introduction to CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
 + [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 + [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+#### Git
++ [Learn Git](https://www.atlassian.com/git)
