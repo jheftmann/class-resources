@@ -42,3 +42,21 @@ This is a repository of useful intro coding resources.
 
 #### Git
 + [Learn Git](https://www.atlassian.com/git)
+
+## Webfonts
++ [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
+
+#### Please be wary of free fonts
++ [Google Fonts](https://fonts.google.com)
++ [Typekit](https://typekit.com) – Included in your Adobe CC license
+
+#### Independent type foundries with free trials
++ [Grilli Type](https://klim.co.nz)
++ [Klim](https://klim.co.nz)
+
+#### Independent type foundries with free trials
++ []
+
+#### Places to purchase type
++ [Hoefler](https://www.typography.com)
+
