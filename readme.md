@@ -34,6 +34,8 @@ This is a repository of useful intro coding resources.
 #### CSS
 + [Type alternates](http://clagnut.com/sandbox/css3/)
 + [W3Schools CSS Reference](https://www.w3schools.com/cssref/default.asp)
++ [W3Schools @media Reference](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
++ [Common device widths](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 
 #### Layout
 + [Introduction to CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
@@ -51,14 +53,27 @@ This is a repository of useful intro coding resources.
 + [Google Fonts](https://fonts.google.com)
 + [Typekit](https://typekit.com) – Included in your Adobe CC license
 
-#### Independent type foundries with free trials
+#### Type foundries with free trials
 + [Grilli Type](https://klim.co.nz)
 + [Klim](https://klim.co.nz)
++ [Milieu Grotesque](https://www.milieugrotesque.com)
++ [Production](https://www.productiontype.com)
++ [Swiss Typefaces](https://www.swisstypefaces.com)
 
-#### Independent type foundries
+#### Type foundries with free trials via [Fontstand](https://fontstand.com)
++ [Playtype](https://playtype.com/selected)
++ [Letters from Sweden](https://lettersfromsweden.se)
+
+#### Type foundries
 + [Colophon](https://www.colophon-foundry.org)
-
-#### Places to purchase type
 + [Hoefler](https://www.typography.com)
-+ [FontShop](https://www.fontshop.com)
++ [Commercial](https://commercialtype.com/catalog)
++ [MCKL](https://mckltype.com)
++ [Sharp](https://sharptype.co)
++ [TDF](https://thedesignersfoundry.com)
++ [Schik Toikka ](https://www.schick-toikka.com)
 
+#### Places to license type
++ [FontShop](https://www.fontshop.com)
++ [MyFonts](https://www.myfonts.com)
++ [Type Network / Font Bureau](https://fontbureau.typenetwork.com)
