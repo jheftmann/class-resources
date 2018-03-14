@@ -1,8 +1,6 @@
 # Resources
 This is a repository of useful intro coding resources.
 
-<hr>
-
 ## Code snippets
 #### /shuffle.js
 Fetch a random item from an hour.
@@ -10,11 +8,9 @@ Fetch a random item from an hour.
 #### /typer.js
 Log keyboard entries in an input field.
 
-<hr>
 ## Project template
 This is a very basic starting point for your coding projects
 
-<hr>
 ## Useful links
 ### Code editors
 + [TextWrangler](http://www.barebones.com/products/textwrangler/)
