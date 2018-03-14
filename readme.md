@@ -1,6 +1,19 @@
 # Resources
 This is a repository of useful intro coding resources.
 
+## What is this?
+
+### Code snippets
+##### /shuffle.js
+Fetch a random item from an hour.
+
+##### /typer.js
+Log keyboard entries in an input field.
+
+### Project template
+This is a very basic starting point for your coding projects
+
+### Useful links
 #### Code editors
 + [TextWrangler](http://www.barebones.com/products/textwrangler/)
 + [Atom](https://atom.io)
