@@ -1,6 +1,7 @@
+var entryCount = 0;
+var displayCount = 0;
+
 $(document).ready(function() {
- var entryCount = 0;
- var displayCount = 0;
 
   //capture key presses
   $(document).on("keypress", function(e) {
@@ -9,6 +10,7 @@ $(document).ready(function() {
     displayCount ++;
 
     //translate unicode to characters
+    //https://unicodelookup.com/
     var char = String.fromCharCode(e.which);
     console.log("entry #" + entryCount + " : " + e.which + " | " + char + ". Showing " + displayCount);
     createElement(char);
@@ -30,7 +32,11 @@ $(document).ready(function() {
 
 function createElement(k) {
   var elem = $('#cursor');
-  if (k == "a" || k == "A") { elem.before('<span class="inner">A</span>'); }
+  var output = $('.output');
+  if (k == "a" || k == "A") {
+    elem.before('<span class="inner">a</span>');
+    output.before('<span class="inner foo">animal</span>');
+  }
   if (k == "b" || k == "B") { elem.before('<span class="inner">B</span>'); }
   if (k == "c" || k == "C") { elem.before('<span class="inner"><img src="http://a.deviantart.net/avatars/i/n/infinitenyancatplz.gif"></span>'); }
   if (k == "d" || k == "D") { elem.before('<span class="inner">D</span>'); }
