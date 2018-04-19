@@ -1,12 +1,12 @@
 # Resources
 This is a repository of useful introductory coding resources.
 
-<hr>
+
 ## Code snippets
-#### /shuffle.js
+#### `/shuffle.js`
 Fetch a random item from an hour.
 
-#### /typer.js
+#### `/typer.js`
 Log keyboard entries in an input field.
 
 ## Project template
