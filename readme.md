@@ -41,7 +41,7 @@ This is a very basic starting point for your coding projects
 + [Hashify](http://hashify.me/IyBUaXRsZQ==)
 + [Chrome DevTools](https://developer.chrome.com/devtools)
 
-#### Hosting, CMS, etc.
+### Hosting, CMS, etc.
 + [Small Victories](http://www.smallvictori.es)
 + [Github Pages](https://pages.github.com)
 
