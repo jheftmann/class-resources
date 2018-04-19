@@ -35,6 +35,7 @@ This is a very basic starting point for your coding projects
 + [Codepen](http://www.codepen.io)
 + [MAMP](https://www.mamp.info/en/)
 + [Hashify](http://hashify.me/IyBUaXRsZQ==)
++ [Chrome DevTools](https://developer.chrome.com/devtools)
 
 #### Hosting, CMS, etc.
 + [Small Victories](http://www.smallvictori.es)
@@ -46,6 +47,7 @@ This is a very basic starting point for your coding projects
 + [StackOverflow](http://stackoverflow.com)
 + [W3C](https://www.w3.org)
 + [Can I Use](https://caniuse.com/#index)
++ [W3C markup validator](https://validator.w3.org)
 
 ### Files
 + [Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
