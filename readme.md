@@ -2,7 +2,9 @@
 This is a repository of useful introductory coding resources.
 
 <hr>
+
 ## Code
+
 #### `shuffle.js`
 Fetch a random item from an array.
 
@@ -13,6 +15,7 @@ Log keyboard entries in an input field.
 This is a very basic starting point for your coding projects
 
 <hr>
+
 ## Tools & Reference
 
 ### Code editors
@@ -92,11 +95,13 @@ This is a very basic starting point for your coding projects
 + [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 <hr>
+
 ## Tutorials
 + [General Assembly Dash](https://dash.generalassemb.ly)
 + [Learn Chrome's Dev Tools](http://discover-devtools.codeschool.com/chapters/1/)
 
 <hr>
+
 ## (Web) Typography
 + [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
 + [Butterick’s Practical Typography](https://practicaltypography.com)
