@@ -75,7 +75,7 @@ This is a very basic starting point for your coding projects
 + [jQuery Basics](http://jqfundamentals.com/chapter/jquery-basics)
 + [Learn jQuery in 15 minutes](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn)
 
-#### Accessibility
+### Accessibility
 + [W3C Accessibility guidelines](https://www.w3.org/standards/webdesign/accessibility)
 
 ### Layout
