@@ -23,7 +23,6 @@ This is a very basic starting point for your coding projects
 + [CyberDuck](http://cyberduck.io)
 + [Fetch](http://fetchsoftworks.com)
 
-### Code
 #### Libraries
 + jQuery [CDN](https://code.jquery.com) or [dowload and self-host](http://jquery.com/download/)
 + [jQuery UI](https://jqueryui.com)
