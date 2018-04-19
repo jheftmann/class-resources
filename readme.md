@@ -1,36 +1,38 @@
 # Resources
 This is a repository of useful introductory coding resources.
 
+<hr>
+## Code
+#### `shuffle.js`
+Fetch a random item from an array.
 
-## Code snippets
-#### `/shuffle.js`
-Fetch a random item from an hour.
-
-#### `/typer.js`
+#### `/typer`
 Log keyboard entries in an input field.
 
-#### Project template
+#### `/project-template`
 This is a very basic starting point for your coding projects
 
-## Tools
-#### Code editors
+<hr>
+## Tools & Reference
+
+### Code editors
 + [TextWrangler](http://www.barebones.com/products/textwrangler/)
 + [Atom](https://atom.io)
 + [Sublime Text](https://www.sublimetext.com)
 + [Notepad++](https://notepad-plus-plus.org)
 
-#### FTP
+### FTP
 + [CyberDuck](http://cyberduck.io)
 + [Fetch](http://fetchsoftworks.com)
 
-#### Libraries
+### Libraries
 + jQuery [CDN](https://code.jquery.com) or [dowload and self-host](http://jquery.com/download/)
 + [jQuery UI](https://jqueryui.com)
 
-#### Plugins
+### Plugins
 + [Unheap](http://www.unheap.com)
 
-#### Other tools
+### Other tools
 + [Codepen](http://www.codepen.io)
 + [MAMP](https://www.mamp.info/en/)
 + [Hashify](http://hashify.me/IyBUaXRsZQ==)
@@ -39,8 +41,6 @@ This is a very basic starting point for your coding projects
 #### Hosting, CMS, etc.
 + [Small Victories](http://www.smallvictori.es)
 + [Github Pages](https://pages.github.com)
-
-## Reference
 
 ### Bugs, Testing & Standards
 + [StackOverflow](http://stackoverflow.com)
@@ -91,11 +91,13 @@ This is a very basic starting point for your coding projects
 + [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)
 + [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+<hr>
 ## Tutorials
 + [General Assembly Dash](https://dash.generalassemb.ly)
 + [Learn Chrome's Dev Tools](http://discover-devtools.codeschool.com/chapters/1/)
 
-## Typography
+<hr>
+## (Web) Typography
 + [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
 + [Butterick’s Practical Typography](https://practicaltypography.com)
 
