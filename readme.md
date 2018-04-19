@@ -9,7 +9,7 @@ Fetch a random item from an hour.
 #### `/typer.js`
 Log keyboard entries in an input field.
 
-## Project template
+#### Project template
 This is a very basic starting point for your coding projects
 
 ## Tools
