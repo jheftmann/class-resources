@@ -79,9 +79,6 @@ This is a very basic starting point for your coding projects
 + [Learn CSS Layout](http://learnlayout.com)
 + [CSS Positioning 1](https://www.youtube.com/watch?v=kejG8G0dr5U)
 + [CSS Positioning 2](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
-+ []()
-+ []()
-+ []()
 
 ### Git
 + [Learn Git](https://www.atlassian.com/git)
@@ -93,9 +90,6 @@ This is a very basic starting point for your coding projects
 ## Tutorials
 + [General Assembly Dash](https://dash.generalassemb.ly)
 + [Learn Chrome's Dev Tools](http://discover-devtools.codeschool.com/chapters/1/)
-+ []()
-+ []()
-+ []()
 
 ## Typography
 + [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
