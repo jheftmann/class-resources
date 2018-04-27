@@ -79,6 +79,11 @@ This is a very basic starting point for your coding projects
 + [jQuery Basics](http://jqfundamentals.com/chapter/jquery-basics)
 + [Learn jQuery in 15 minutes](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn)
 
+### Drawing tools
++ [Processing.js](http://processingjs.org)
++ [D3](https://d3js.org)
++ [Rune.js](http://runemadsen.github.io/rune.js/)
+
 ### Accessibility
 + [W3C Accessibility guidelines](https://www.w3.org/standards/webdesign/accessibility)
 
@@ -109,6 +114,8 @@ This is a very basic starting point for your coding projects
 ## (Web) Typography
 + [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
 + [Butterick’s Practical Typography](https://practicaltypography.com)
++ [Upcoming changes to the CSS you need for variable fonts](https://medium.com/@clagnut/upcoming-changes-to-the-css-for-variable-fonts-4494b3b7ecdc)
++ [How to use variable fonts in the real world](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
 
 ### Please be wary of free fonts
 + [Google Fonts](https://fonts.google.com)
