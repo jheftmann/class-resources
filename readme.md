@@ -70,7 +70,8 @@ This is a very basic starting point for your coding projects
 + [W3Schools CSS Reference](https://www.w3schools.com/cssref/default.asp)
 + [W3Schools @media Reference](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
 + [Common device widths](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
-+ [CSS Specificity](http://www.htmldog.com/guides/css/intermediate/specificity/)
++ [CSS Specificity 1](http://www.htmldog.com/guides/css/intermediate/specificity/)
++ [CSS Specificity 2](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 + [Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/)
 + [CSS Shapes](https://css-tricks.com/examples/ShapesOfCSS/)
 
@@ -115,6 +116,7 @@ This is a very basic starting point for your coding projects
 + [Very Interactive (Laurel Schwulst)](http://veryinteractive.net)
 + [John Caserta](http://johncaserta.com)
 + [Computer Utopias (Chris Novello)](http://chrisnovello.com/teaching/risd/computer-utopias/)
++ [Print Code (Rune Madsen)](http://printingcode.runemadsen.com)
 
 <hr>
 
