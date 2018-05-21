@@ -111,6 +111,13 @@ This is a very basic starting point for your coding projects
 
 <hr>
 
+## Teachers, Classes & Programs
++ [Very Interactive (Laurel Schwulst)](http://veryinteractive.net)
++ [John Caserta](http://johncaserta.com)
++ [Computer Utopias (Chris Novello)](http://chrisnovello.com/teaching/risd/computer-utopias/)
+
+<hr>
+
 ## (Web) Typography
 + [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
 + [Butterick’s Practical Typography](https://practicaltypography.com)
