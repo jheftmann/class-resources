@@ -1,4 +1,7 @@
 $(document).ready(function() {
+
+  console.log('randomizer ready!');
+
   var ourArray = ["Blue", "Green", "Orange", "Picasso", "Matisse", "Gaugin"];
   // console.log('ourArray: ' + ourArray);
 
@@ -38,4 +41,5 @@ $(document).ready(function() {
   console.log("first two: " + myList);
 
   $(".result").append(myList);
+
 });
