@@ -90,6 +90,7 @@ This is a very basic starting point for your coding projects
 
 ### Accessibility
 + [W3C Accessibility guidelines](https://www.w3.org/standards/webdesign/accessibility)
++ [Size Calculator](https://sizecalc.com)
 
 ### Layout
 + [Introduction to CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
@@ -120,6 +121,7 @@ This is a very basic starting point for your coding projects
 + [John Caserta](http://johncaserta.com)
 + [Computer Utopias (Chris Novello)](http://chrisnovello.com/teaching/risd/computer-utopias/)
 + [Print Code (Rune Madsen)](http://printingcode.runemadsen.com)
++ [Paul Soulellis](https://soulellis.com/teaching/index.html)
 
 <hr>
 
