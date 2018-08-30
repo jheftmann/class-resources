@@ -124,13 +124,15 @@ This is a very basic starting point for your coding projects
 + [Paul Soulellis](https://soulellis.com/teaching/index.html)
 
 <hr>
+## Typography
++ [Type Classification](http://kupferschrift.de/cms/2016/01/type-classification-texts/)
++ [Type terminology in multiple languages (crowdsourced)](https://docs.google.com/spreadsheets/d/110VWy7aXXt_gy2o8_ea_7KszH-CFtx_uz2BpKWWAm_4/edit)
 
 ## (Web) Typography
 + [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
 + [Butterick’s Practical Typography](https://practicaltypography.com)
 + [Upcoming changes to the CSS you need for variable fonts](https://medium.com/@clagnut/upcoming-changes-to-the-css-for-variable-fonts-4494b3b7ecdc)
 + [How to use variable fonts in the real world](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
-+ [Type terminology in multiple languages (crowdsourced](https://docs.google.com/spreadsheets/d/110VWy7aXXt_gy2o8_ea_7KszH-CFtx_uz2BpKWWAm_4/edit)
 
 ### Please be wary of free fonts
 + [Google Fonts](https://fonts.google.com)
