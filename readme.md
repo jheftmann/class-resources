@@ -130,6 +130,7 @@ This is a very basic starting point for your coding projects
 + [Butterick’s Practical Typography](https://practicaltypography.com)
 + [Upcoming changes to the CSS you need for variable fonts](https://medium.com/@clagnut/upcoming-changes-to-the-css-for-variable-fonts-4494b3b7ecdc)
 + [How to use variable fonts in the real world](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
++ [Type terminology in multiple languages (crowdsourced](https://docs.google.com/spreadsheets/d/110VWy7aXXt_gy2o8_ea_7KszH-CFtx_uz2BpKWWAm_4/edit)
 
 ### Please be wary of free fonts
 + [Google Fonts](https://fonts.google.com)
