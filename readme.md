@@ -124,6 +124,7 @@ This is a very basic starting point for your coding projects
 + [Paul Soulellis](https://soulellis.com/teaching/index.html)
 
 <hr>
+
 ## Typography
 + [Type Classification](http://kupferschrift.de/cms/2016/01/type-classification-texts/)
 + [Type terminology in multiple languages (crowdsourced)](https://docs.google.com/spreadsheets/d/110VWy7aXXt_gy2o8_ea_7KszH-CFtx_uz2BpKWWAm_4/edit)
