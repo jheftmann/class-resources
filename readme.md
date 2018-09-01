@@ -9,14 +9,17 @@ www.jacobheftmann.com
 
 ## Code
 
-#### `shuffle.js`
+#### New project template
+`code-snippets/project-template`
+This is a very basic starting point for your coding projects.
+
+#### Shuffle.js
+`code-snippets/shuffle.js`
 Fetch a random item from an array.
 
-#### `/typer`
+#### Typer
+`code-snippets/typer`
 Log keyboard entries in an input field.
-
-#### `/project-template`
-This is a very basic starting point for your coding projects
 
 <hr>
 
@@ -42,7 +45,7 @@ This is a very basic starting point for your coding projects
 ### Other tools
 + [Codepen](http://www.codepen.io)
 + [MAMP](https://www.mamp.info/en/)
-+ [Hashify](http://hashify.me/IyBUaXRsZQ==)
++ [Hashify](http://hashify.me/IyBUaXRsZQ==) Markdown translator
 + [Chrome DevTools](https://developer.chrome.com/devtools)
 
 ### Hosting, CMS, etc.
@@ -75,7 +78,7 @@ This is a very basic starting point for your coding projects
 + [Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/)
 + [CSS Shapes](https://css-tricks.com/examples/ShapesOfCSS/)
 
-#### SCSS
+### SCSS
 + [Workshopper–Learn SASS](https://github.com/workshopper/learn-sass)
 
 ### JS
