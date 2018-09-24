@@ -100,6 +100,7 @@ Log keyboard entries in an input field.
 + [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 + [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 + [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)
++ [How Big Is That Flexible Box?](https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box/)
 + [Learn CSS Layout](http://learnlayout.com)
 + [CSS Positioning 1](https://www.youtube.com/watch?v=kejG8G0dr5U)
 + [CSS Positioning 2](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
