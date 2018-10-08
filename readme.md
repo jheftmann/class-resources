@@ -133,9 +133,10 @@ Log keyboard entries in an input field.
 + [Graphic Design Readings](http://readings.design)
 
 ## Typography
-+ [Type Classification](http://kupferschrift.de/cms/2016/01/type-classification-texts/)
++ [Some type genres explained, Kupferschmid](http://kupferschrift.de/cms/2016/01/type-classification-texts/)
++ [Evaluating the quality of a typeface, Kupferschmid](http://kupferschrift.de/cms/2018/08/evaluating-the-quality-of-a-typeface/)
 + [Type terminology in multiple languages (crowdsourced)](https://docs.google.com/spreadsheets/d/110VWy7aXXt_gy2o8_ea_7KszH-CFtx_uz2BpKWWAm_4/edit)
-+ [Butterick’s Practical Typography](https://practicaltypography.com)
++ [Butterick’s Practical Typography, Butterick](https://practicaltypography.com)
 
 ## (Web) Typography
 + [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
