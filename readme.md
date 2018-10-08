@@ -136,7 +136,6 @@ Log keyboard entries in an input field.
 + [Type Classification](http://kupferschrift.de/cms/2016/01/type-classification-texts/)
 + [Type terminology in multiple languages (crowdsourced)](https://docs.google.com/spreadsheets/d/110VWy7aXXt_gy2o8_ea_7KszH-CFtx_uz2BpKWWAm_4/edit)
 + [Butterick’s Practical Typography](https://practicaltypography.com)
-+ []
 
 ## (Web) Typography
 + [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
