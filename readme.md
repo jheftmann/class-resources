@@ -140,9 +140,12 @@ Log keyboard entries in an input field.
 
 ## (Web) Typography
 + [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
-+ [Upcoming changes to the CSS you need for variable fonts](https://medium.com/@clagnut/upcoming-changes-to-the-css-for-variable-fonts-4494b3b7ecdc)
-+ [How to use variable fonts in the real world](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
 + [OpenType features](https://css-tricks.com/understanding-web-fonts-getting/)
++ [Upcoming changes to the CSS you need for variable fonts](https://medium.com/@clagnut/upcoming-changes-to-the-css-for-variable-fonts-4494b3b7ecdc)
++ [Get Started with Variable Fonts](https://medium.com/@clagnut/get-started-with-variable-fonts-c055fd73ecd7), Rutter
++ [How to use variable fonts in the real world](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
++ [The Web Fonts: Preloaded](https://www.zachleat.com/web/preload/), Leatherman
++ [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/), Leatherman
 
 ### Please be wary of free fonts
 + [Google Fonts](https://fonts.google.com)
