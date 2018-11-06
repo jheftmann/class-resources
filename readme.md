@@ -58,6 +58,9 @@ Log keyboard entries in an input field.
 + [Can I Use](https://caniuse.com/#index)
 + [W3C markup validator](https://validator.w3.org)
 
+### Animation
++ [Easing Functions Cheat Sheet](https://easings.net/en)
+
 ### Files
 + [Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 
