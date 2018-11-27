@@ -120,6 +120,7 @@ Log keyboard entries in an input field.
 ## Tutorials
 + [General Assembly Dash](https://dash.generalassemb.ly)
 + [Learn Chrome's Dev Tools](http://discover-devtools.codeschool.com/chapters/1/)
++ [Front-end Interview Handbook (Yangshun Tay)](https://github.com/yangshun/front-end-interview-handbook)
 
 <hr>
 
