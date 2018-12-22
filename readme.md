@@ -57,6 +57,7 @@ Log keyboard entries in an input field.
 + [W3C](https://www.w3.org)
 + [Can I Use](https://caniuse.com/#index)
 + [W3C markup validator](https://validator.w3.org)
++ [The Front-End Checklist](https://frontendchecklist.io)
 
 ### Animation
 + [Easing Functions Cheat Sheet](https://easings.net/en)
