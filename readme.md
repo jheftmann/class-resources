@@ -1,4 +1,4 @@
-# Resources
+# Class Resources
 This is a repository of useful introductory coding resources. It was assembled for designers learning basic coding skills but it’s a handy reference for all kinds of evergreen coding resources. There are also some code snippets related to in-class projects that could be useful for learning from or for your own projects.
 
 Feel free to refer to this, share it, use it in your own classes, suggest changes, etc.
