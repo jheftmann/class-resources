@@ -9,14 +9,17 @@ www.jacobheftmann.com
 
 ## Code
 
-#### `shuffle.js`
+#### New project template
+`code-snippets/project-template`
+This is a very basic starting point for your coding projects.
+
+#### Shuffle.js
+`code-snippets/shuffle.js`
 Fetch a random item from an array.
 
-#### `/typer`
+#### Typer
+`code-snippets/typer`
 Log keyboard entries in an input field.
-
-#### `/project-template`
-This is a very basic starting point for your coding projects
 
 <hr>
 
@@ -42,7 +45,7 @@ This is a very basic starting point for your coding projects
 ### Other tools
 + [Codepen](http://www.codepen.io)
 + [MAMP](https://www.mamp.info/en/)
-+ [Hashify](http://hashify.me/IyBUaXRsZQ==)
++ [Hashify](http://hashify.me/IyBUaXRsZQ==) Markdown translator
 + [Chrome DevTools](https://developer.chrome.com/devtools)
 
 ### Hosting, CMS, etc.
@@ -54,6 +57,10 @@ This is a very basic starting point for your coding projects
 + [W3C](https://www.w3.org)
 + [Can I Use](https://caniuse.com/#index)
 + [W3C markup validator](https://validator.w3.org)
++ [The Front-End Checklist](https://frontendchecklist.io)
+
+### Animation
++ [Easing Functions Cheat Sheet](https://easings.net/en)
 
 ### Files
 + [Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
@@ -75,7 +82,7 @@ This is a very basic starting point for your coding projects
 + [Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/)
 + [CSS Shapes](https://css-tricks.com/examples/ShapesOfCSS/)
 
-#### SCSS
+### SCSS
 + [Workshopper–Learn SASS](https://github.com/workshopper/learn-sass)
 
 ### JS
@@ -90,12 +97,14 @@ This is a very basic starting point for your coding projects
 
 ### Accessibility
 + [W3C Accessibility guidelines](https://www.w3.org/standards/webdesign/accessibility)
++ [Size Calculator](https://sizecalc.com)
 
 ### Layout
 + [Introduction to CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
 + [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 + [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 + [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)
++ [How Big Is That Flexible Box?](https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box/)
 + [Learn CSS Layout](http://learnlayout.com)
 + [CSS Positioning 1](https://www.youtube.com/watch?v=kejG8G0dr5U)
 + [CSS Positioning 2](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
@@ -112,6 +121,7 @@ This is a very basic starting point for your coding projects
 ## Tutorials
 + [General Assembly Dash](https://dash.generalassemb.ly)
 + [Learn Chrome's Dev Tools](http://discover-devtools.codeschool.com/chapters/1/)
++ [Front-end Interview Handbook (Yangshun Tay)](https://github.com/yangshun/front-end-interview-handbook)
 
 <hr>
 
@@ -120,14 +130,27 @@ This is a very basic starting point for your coding projects
 + [John Caserta](http://johncaserta.com)
 + [Computer Utopias (Chris Novello)](http://chrisnovello.com/teaching/risd/computer-utopias/)
 + [Print Code (Rune Madsen)](http://printingcode.runemadsen.com)
++ [Paul Soulellis](https://soulellis.com/teaching/index.html)
 
 <hr>
 
+## General design reading
++ [Graphic Design Readings](http://readings.design)
+
+## Typography
++ [Some type genres explained, Kupferschmid](http://kupferschrift.de/cms/2016/01/type-classification-texts/)
++ [Evaluating the quality of a typeface, Kupferschmid](http://kupferschrift.de/cms/2018/08/evaluating-the-quality-of-a-typeface/)
++ [Type terminology in multiple languages (crowdsourced)](https://docs.google.com/spreadsheets/d/110VWy7aXXt_gy2o8_ea_7KszH-CFtx_uz2BpKWWAm_4/edit)
++ [Butterick’s Practical Typography, Butterick](https://practicaltypography.com)
+
 ## (Web) Typography
 + [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
-+ [Butterick’s Practical Typography](https://practicaltypography.com)
++ [OpenType features](https://css-tricks.com/understanding-web-fonts-getting/)
 + [Upcoming changes to the CSS you need for variable fonts](https://medium.com/@clagnut/upcoming-changes-to-the-css-for-variable-fonts-4494b3b7ecdc)
++ [Get Started with Variable Fonts](https://medium.com/@clagnut/get-started-with-variable-fonts-c055fd73ecd7), Rutter
 + [How to use variable fonts in the real world](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
++ [The Web Fonts: Preloaded](https://www.zachleat.com/web/preload/), Leatherman
++ [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/), Leatherman
 
 ### Please be wary of free fonts
 + [Google Fonts](https://fonts.google.com)
