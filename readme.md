@@ -98,6 +98,7 @@ Log keyboard entries in an input field.
 ### Accessibility
 + [W3C Accessibility guidelines](https://www.w3.org/standards/webdesign/accessibility)
 + [Size Calculator](https://sizecalc.com)
++ [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
 
 ### Layout
 + [Introduction to CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
