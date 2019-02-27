@@ -81,6 +81,8 @@ Log keyboard entries in an input field.
 + [CSS Specificity 2](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 + [Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/)
 + [CSS Shapes](https://css-tricks.com/examples/ShapesOfCSS/)
++ [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
++ [Flex sizing tests](https://codepen.io/jheftmann/pen/OBWMGm)
 
 ### SCSS
 + [Workshopper–Learn SASS](https://github.com/workshopper/learn-sass)
