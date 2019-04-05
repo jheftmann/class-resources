@@ -103,14 +103,16 @@ Log keyboard entries in an input field.
 + [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
 
 ### Layout
-+ [Introduction to CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
-+ [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-+ [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-+ [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)
-+ [How Big Is That Flexible Box?](https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box/)
 + [Learn CSS Layout](http://learnlayout.com)
 + [CSS Positioning 1](https://www.youtube.com/watch?v=kejG8G0dr5U)
 + [CSS Positioning 2](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
++ [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
++ [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)
++ [How Big Is That Flexible Box?](https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box/)
++ [Flexbox sizing demo](https://codepen.io/jheftmann/pen/OBWMGm)
++ [Introduction to CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
++ [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
++ [CSS grid demo](https://codepen.io/jheftmann/pen/GLqvEN)
 
 ### Git
 + [Learn Git](https://www.atlassian.com/git)
