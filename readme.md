@@ -141,6 +141,7 @@ Log keyboard entries in an input field.
 
 ## General design reading
 + [Graphic Design Readings](http://readings.design)
++ [Books on Graphic Design](https://booksongraphicdesign.com)
 
 ## Typography
 + [Some type genres explained, Kupferschmid](http://kupferschrift.de/cms/2016/01/type-classification-texts/)
