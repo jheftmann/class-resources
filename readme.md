@@ -91,6 +91,7 @@ Log keyboard entries in an input field.
 + [Mozilla’s JS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 + [jQuery Basics](http://jqfundamentals.com/chapter/jquery-basics)
 + [Learn jQuery in 15 minutes](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn)
++ [Array demos](https://codepen.io/jheftmann/pen/EJmxZY)
 
 ### Drawing tools
 + [Processing.js](http://processingjs.org)
