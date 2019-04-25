@@ -47,6 +47,7 @@ Log keyboard entries in an input field.
 + [MAMP](https://www.mamp.info/en/)
 + [Hashify](http://hashify.me/IyBUaXRsZQ==) Markdown translator
 + [Chrome DevTools](https://developer.chrome.com/devtools)
++ [Open Graph](http://ogp.me)
 
 ### Hosting, CMS, etc.
 + [Small Victories](http://www.smallvictori.es)
