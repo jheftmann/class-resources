@@ -152,6 +152,9 @@ Log keyboard entries in an input field.
 + [Type terminology in multiple languages (crowdsourced)](https://docs.google.com/spreadsheets/d/110VWy7aXXt_gy2o8_ea_7KszH-CFtx_uz2BpKWWAm_4/edit)
 + [Butterick’s Practical Typography, Butterick](https://practicaltypography.com)
 
+## Type Design
++[TypeCooker](http://typecooker.com/)
+
 ## (Web) Typography
 + [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
 + [OpenType features](https://css-tricks.com/understanding-web-fonts-getting/)
