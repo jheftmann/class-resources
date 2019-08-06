@@ -126,6 +126,11 @@ Log keyboard entries in an input field.
 
 <hr>
 
+## Example projects
++ [clickclickclick](https://clickclickclick.click)
+
+<hr>
+
 ## Tutorials
 + [General Assembly Dash](https://dash.generalassemb.ly)
 + [Learn Chrome's Dev Tools](http://discover-devtools.codeschool.com/chapters/1/)
