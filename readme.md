@@ -39,8 +39,12 @@ Log keyboard entries in an input field.
 + jQuery [CDN](https://code.jquery.com) or [dowload and self-host](http://jquery.com/download/)
 + [jQuery UI](https://jqueryui.com)
 
-### Plugins
+### Plugins directories
 + [Unheap](http://www.unheap.com)
+
+### Scripts
++ [Bindery.js](https://github.com/evnbr/bindery) – create a book out of a web page
++ [Blast.js](http://velocityjs.org/blast/) – explode text strings
 
 ### Other tools
 + [Codepen](http://www.codepen.io)
@@ -52,6 +56,11 @@ Log keyboard entries in an input field.
 ### Hosting, CMS, etc.
 + [Small Victories](http://www.smallvictori.es)
 + [Github Pages](https://pages.github.com)
++ [Netlify](https://www.netlify.com)
++ [Jekyll](https://jekyllrb.com)
++ [Readymag](https://readymag.com)
++ [Cargo](https://2.cargocollective.com)
++ [Persona](https://persona.co)
 
 ### Bugs, Testing & Standards
 + [StackOverflow](http://stackoverflow.com)
