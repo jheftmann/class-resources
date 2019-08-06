@@ -7,18 +7,21 @@ www.jacobheftmann.com
 
 <hr>
 
-## Code
+## Code Snippets
 
 #### New project template
 `code-snippets/project-template`
+
 This is a very basic starting point for your coding projects.
 
 #### Shuffle.js
 `code-snippets/shuffle.js`
+
 Fetch a random item from an array.
 
 #### Typer
 `code-snippets/typer`
+
 Log keyboard entries in an input field.
 
 <hr>
