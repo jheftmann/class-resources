@@ -79,6 +79,7 @@ Log keyboard entries in an input field.
 + [Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 
 ### HTML
++ [html shell](http://htmlshell.com) – Base HTML generator
 + [Mozilla’s HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 + [W3Schools HTML reference](http://www.w3schools.com/tags/ref_byfunc.asp)
 + [Mozilla HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
