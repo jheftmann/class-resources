@@ -98,6 +98,7 @@ www.jacobheftmann.com/teaching
 + [Introduction to CSS Grid](https://mozilladevelopers.github.io/playground/css-grid)
 + [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 + [CSS grid demo](https://codepen.io/jheftmann/pen/GLqvEN)
++ [Grid by Example](https://gridbyexample.com)
 
 #### JS
 + [Mozilla’s JS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
