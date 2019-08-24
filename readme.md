@@ -159,6 +159,7 @@ Log keyboard entries in an input field.
 + [Paul Soulellis](https://soulellis.com/teaching/index.html)
 + [RISD GD](http://risd.gd)
 + [Typography Summer School](http://typographysummerschool.org)
++ [Mindy Seu](http://www.designforthe.net/index.html)
 
 <hr>
 
