@@ -157,6 +157,7 @@ Log keyboard entries in an input field.
 + [Computer Utopias (Chris Novello)](http://chrisnovello.com/teaching/risd/computer-utopias/)
 + [Print Code (Rune Madsen)](http://printingcode.runemadsen.com)
 + [Paul Soulellis](https://soulellis.com/teaching/index.html)
++ [RISD GD](http://risd.gd)
 
 <hr>
 
