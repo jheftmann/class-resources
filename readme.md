@@ -78,14 +78,17 @@ Log keyboard entries in an input field.
 ### Files
 + [Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 
-### HTML
+### Docs
++ [https://devdocs.io](Dev Docs)
+
+#### HTML
 + [html shell](http://htmlshell.com) – Base HTML generator
 + [Mozilla’s HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 + [W3Schools HTML reference](http://www.w3schools.com/tags/ref_byfunc.asp)
 + [Mozilla HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 + [Responsive meta tag](https://css-tricks.com/snippets/html/responsive-meta-tag/)
 
-### CSS
+#### CSS
 + [Mozilla’s CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 + [Type alternates](http://clagnut.com/sandbox/css3/)
 + [W3Schools CSS Reference](https://www.w3schools.com/cssref/default.asp)
@@ -98,10 +101,10 @@ Log keyboard entries in an input field.
 + [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 + [Flex sizing tests](https://codepen.io/jheftmann/pen/OBWMGm)
 
-### SCSS
+#### SCSS
 + [Workshopper–Learn SASS](https://github.com/workshopper/learn-sass)
 
-### JS
+#### JS
 + [Mozilla’s JS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 + [jQuery Basics](http://jqfundamentals.com/chapter/jquery-basics)
 + [Learn jQuery in 15 minutes](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn)
