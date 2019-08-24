@@ -77,6 +77,7 @@ Log keyboard entries in an input field.
 
 ### Files
 + [Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
++ [Organizing Files for the Web, Sasha Portis](https://docs.google.com/presentation/d/101TEdtacOFZhCwebijcJaX0h1BpDwhAm2SJhE3jW89c/edit#slide=id.g331f24f572_4_0)
 
 ### Docs
 + [https://devdocs.io](Dev Docs)
@@ -163,6 +164,7 @@ Log keyboard entries in an input field.
 + [RISD GD](http://risd.gd)
 + [Typography Summer School](http://typographysummerschool.org)
 + [Mindy Seu](http://www.designforthe.net/index.html)
++ [Taeyoon Choi / SFPC](https://tchoi8.github.io/poetic-computation-16/#/)
 
 <hr>
 
@@ -175,9 +177,10 @@ Log keyboard entries in an input field.
 + [Evaluating the quality of a typeface, Kupferschmid](http://kupferschrift.de/cms/2018/08/evaluating-the-quality-of-a-typeface/)
 + [Type terminology in multiple languages (crowdsourced)](https://docs.google.com/spreadsheets/d/110VWy7aXXt_gy2o8_ea_7KszH-CFtx_uz2BpKWWAm_4/edit)
 + [Butterick’s Practical Typography, Butterick](https://practicaltypography.com)
++ [Typographic terms in various languages](https://docs.google.com/spreadsheets/d/110VWy7aXXt_gy2o8_ea_7KszH-CFtx_uz2BpKWWAm_4/edit#gid=0)
 
 ## Type Design
-+[TypeCooker](http://typecooker.com/)
++ [TypeCooker](http://typecooker.com/)
 
 ## (Web) Typography
 + [Grilli Type Web Fonts Guide](https://github.com/grillitype/web-fonts-guide) – by a type foundry but good general information
@@ -188,7 +191,7 @@ Log keyboard entries in an input field.
 + [The Web Fonts: Preloaded](https://www.zachleat.com/web/preload/), Leatherman
 + [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/), Leatherman
 
-### Please be wary of free fonts
+### (Please be wary of) free fonts
 + [Google Fonts](https://fonts.google.com)
 + [Typekit](https://typekit.com) – Included in your Adobe CC license
 
