@@ -62,7 +62,7 @@ www.jacobheftmann.com/teaching
 + [Organizing Files for the Web, Sasha Portis](https://docs.google.com/presentation/d/101TEdtacOFZhCwebijcJaX0h1BpDwhAm2SJhE3jW89c/edit#slide=id.g331f24f572_4_0)
 
 ### Docs
-+ [https://devdocs.io](Dev Docs)
++ [Dev Docs](https://devdocs.io)
 
 #### HTML
 + [html shell](http://htmlshell.com) – Base HTML generator
