@@ -158,6 +158,7 @@ Log keyboard entries in an input field.
 + [Print Code (Rune Madsen)](http://printingcode.runemadsen.com)
 + [Paul Soulellis](https://soulellis.com/teaching/index.html)
 + [RISD GD](http://risd.gd)
++ [Typography Summer School](http://typographysummerschool.org)
 
 <hr>
 
