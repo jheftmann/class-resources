@@ -1,32 +1,14 @@
-# Resources
+# Coding Resources for Designers
 This is a repository of useful introductory coding resources. It was assembled for designers learning basic coding skills but it’s a handy reference for all kinds of evergreen coding resources. There are also some code snippets related to in-class projects that could be useful for learning from or for your own projects.
 
 Feel free to refer to this, share it, use it in your own classes, suggest changes, etc.
 
-www.jacobheftmann.com
+www.jacobheftmann.com/teaching
 
 <hr>
 
-## Code Snippets
-
-#### New project template
-`code-snippets/project-template`
-
-This is a very basic starting point for your coding projects.
-
-#### Shuffle.js
-`code-snippets/shuffle.js`
-
-Fetch a random item from an array.
-
-#### Typer
-`code-snippets/typer`
-
-Log keyboard entries in an input field.
-
-<hr>
-
-## Tools & Reference
+### Code snippets, examples, and demos
++ Starter HTML template – `code-snippets/project-template`
 
 ### Code editors
 + [TextWrangler](http://www.barebones.com/products/textwrangler/)
