@@ -154,6 +154,7 @@ www.jacobheftmann.com/teaching
 ## General design reading
 + [Graphic Design Readings](http://readings.design)
 + [Books on Graphic Design](https://booksongraphicdesign.com)
++ [Know Your Shit: A Design Reader](https://taliacotton.com/read/)
 
 ## Typography
 + [Some type genres explained, Kupferschmid](http://kupferschrift.de/cms/2016/01/type-classification-texts/)
