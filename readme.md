@@ -174,6 +174,7 @@ www.jacobheftmann.com/teaching
 + [How to use variable fonts in the real world](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
 + [The Web Fonts: Preloaded](https://www.zachleat.com/web/preload/), Leatherman
 + [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/), Leatherman
++ [Educational Discounts for Fonts](http://kupferschrift.de/cms/fonts-edu-discounts/) directory, Kupferschmid
 
 ### (Please be wary of) free fonts
 + [Google Fonts](https://fonts.google.com)
