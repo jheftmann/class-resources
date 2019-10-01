@@ -56,6 +56,7 @@ www.jacobheftmann.com/teaching
 
 ### Animation
 + [Easing Functions Cheat Sheet](https://easings.net/en)
++ [After Effects Guide](https://drive.google.com/file/d/1YKw6T44emGe99bS8qb93XtoJMa7dssA1/view)
 
 ### Files
 + [Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
