@@ -74,6 +74,7 @@ www.jacobheftmann.com/teaching
 + [W3Schools HTML reference](http://www.w3schools.com/tags/ref_byfunc.asp)
 + [Mozilla HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 + [Responsive meta tag](https://css-tricks.com/snippets/html/responsive-meta-tag/)
++ [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 
 #### CSS
 + [Mozilla’s CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
@@ -109,6 +110,7 @@ www.jacobheftmann.com/teaching
 + [jQuery Basics](http://jqfundamentals.com/chapter/jquery-basics)
 + [Learn jQuery in 15 minutes](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn)
 + [Array demos](https://codepen.io/jheftmann/pen/EJmxZY)
++ [An Introduction to JavaScript](https://javascript.info/intro#summary)
 
 ### Drawing tools
 + [Processing.js](http://processingjs.org)
