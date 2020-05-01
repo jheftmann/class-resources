@@ -8,13 +8,17 @@ www.jacobheftmann.com/teaching
 <hr>
 
 ### Code snippets, examples, and demos
-+ Starter HTML template – `code-snippets/project-template`
++ Starter HTML template: `code-snippets/project-template`
 
 ### Code editors
 + [TextWrangler](http://www.barebones.com/products/textwrangler/)
 + [Atom](https://atom.io)
 + [Sublime Text](https://www.sublimetext.com)
 + [Notepad++](https://notepad-plus-plus.org)
+
+#### Web-based code editors
++ [Glitch](https://glitch.com)
++ [Codepen](http://www.codepen.io)
 
 ### FTP
 + [CyberDuck](http://cyberduck.io)
@@ -27,12 +31,11 @@ www.jacobheftmann.com/teaching
 ### Plugins directories
 + [Unheap](http://www.unheap.com)
 
-### Scripts
+### Scripts used in class projects
 + [Bindery.js](https://github.com/evnbr/bindery) – create a book out of a web page
 + [Blast.js](http://velocityjs.org/blast/) – explode text strings
 
 ### Other tools
-+ [Codepen](http://www.codepen.io)
 + [MAMP](https://www.mamp.info/en/)
 + [Hashify](http://hashify.me/IyBUaXRsZQ==) Markdown translator
 + [Chrome DevTools](https://developer.chrome.com/devtools)
@@ -140,17 +143,19 @@ www.jacobheftmann.com/teaching
 <hr>
 
 ## Teachers, Classes & Programs
-+ [Very Interactive (Laurel Schwulst)](http://veryinteractive.net)
++ [Anthony Zukofsky](https://anthonyzukofsky.com/Teaching)
 + [John Caserta](http://johncaserta.com)
 + [Computer Utopias (Chris Novello)](http://chrisnovello.com/teaching/risd/computer-utopias/)
 + [Print Code (Rune Madsen)](http://printingcode.runemadsen.com)
 + [Paul Soulellis](https://soulellis.com/teaching/index.html)
-+ [RISD GD](http://risd.gd)
++ [Very Interactive (Laurel Schwulst)](http://veryinteractive.net)
 + [Typography Summer School](http://typographysummerschool.org)
 + [Mindy Seu](http://www.designforthe.net/index.html)
 + [Taeyoon Choi / SFPC](https://tchoi8.github.io/poetic-computation-16/#/)
 
 <hr>
+## More coding-for-designers resources
++ [Publish Something Online](https://publishsomething.online)
 
 ## General design reading
 + [Graphic Design Readings](http://readings.design)
