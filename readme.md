@@ -156,6 +156,7 @@ www.jacobheftmann.com/teaching
 + [Taeyoon Choi / SFPC](https://tchoi8.github.io/poetic-computation-16/#/)
 
 <hr>
+
 ## More coding-for-designers resources
 + [Publish Something Online](https://publishsomething.online)
 
